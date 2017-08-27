@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1472196026 source:c:\users\akash\desktop\high_performance_linked_lists\stratified_linked_lists\main.cpp
+	<iostream>
+	"linked_list2.h"
+
+1472196026 c:\users\akash\desktop\high_performance_linked_lists\stratified_linked_lists\linked_list2.h
+
+1472196026 source:c:\users\akash\desktop\high_performance_linked_lists\stratified_linked_lists\linked_list2.cpp
+	"linked_list2.h"
+	<iostream>
+
+1472655349 source:c:\users\akash\desktop\high_performance_linked_lists\stratified_linked_lists-memory pool\linked_list2.cpp
+	"linked_list2.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<cstddef>
+	<limits.h>
+
+1472655348 c:\users\akash\desktop\high_performance_linked_lists\stratified_linked_lists-memory pool\linked_list2.h
+	<stdlib.h>
+
+1472655349 source:c:\users\akash\desktop\high_performance_linked_lists\stratified_linked_lists-memory pool\main.cpp
+	<iostream>
+	<string.h>
+	"linked_list2.h"
+

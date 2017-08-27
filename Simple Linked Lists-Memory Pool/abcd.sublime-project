@@ -1,0 +1,27 @@
+{
+    "folders":
+    [
+        {
+            "path": "/home/akash/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool",
+            "folder_exclude_patterns": ["bin","obj"]
+        },
+        {
+            "path": "docs",
+            "name": "Documentation",
+            "file_exclude_patterns": ["*.css"]
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 8
+    },
+    "build_systems":
+    [
+        {
+            "name": "linked_list.h",
+            "name": "linked_lists.cpp",
+            "name": "main.cpp",
+            "cmd": ["ls"]
+        }
+    ]
+}

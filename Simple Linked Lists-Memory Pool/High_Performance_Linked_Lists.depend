@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1470597305 source:c:\users\akash\desktop\high_performance_linked_lists\linked_lists.cpp
+	<iostream>
+	<new>
+	"linked_list.h"
+	<string.h>
+	<stdlib.h>
+	<cstring>
+
+1470576055 c:\users\akash\desktop\high_performance_linked_lists\linked_list.h
+
+1470599064 source:c:\users\akash\desktop\high_performance_linked_lists\main.cpp
+	<iostream>
+	<string.h>
+	"Linked_list.h"
+
+1472148259 source:c:\users\akash\desktop\new folder\main.cpp
+	<iostream>
+	<string.h>
+	"linked_list.h"
+
+1472148259 c:\users\akash\desktop\new folder\linked_list.h
+	<stdlib.h>
+
+1472148259 source:c:\users\akash\desktop\new folder\linked_lists.cpp
+	"linked_list.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<cstddef>
+
+1472148259 source:c:\users\akash\desktop\high_performance_linked_lists\simple linked lists-memory pool\linked_lists.cpp
+	"linked_list.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<cstddef>
+
+1472148259 c:\users\akash\desktop\high_performance_linked_lists\simple linked lists-memory pool\linked_list.h
+	<stdlib.h>
+
+1472148259 source:c:\users\akash\desktop\high_performance_linked_lists\simple linked lists-memory pool\main.cpp
+	<iostream>
+	<string.h>
+	"linked_list.h"
+
+1472148259 source:c:\users\akash agarwal\desktop\high_performance_linked_lists\simple linked lists-memory pool\linked_lists.cpp
+	"linked_list.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<cstddef>
+
+1472148259 c:\users\akash agarwal\desktop\high_performance_linked_lists\simple linked lists-memory pool\linked_list.h
+	<stdlib.h>
+
+1472148259 source:c:\users\akash agarwal\desktop\high_performance_linked_lists\simple linked lists-memory pool\main.cpp
+	<iostream>
+	<string.h>
+	"linked_list.h"
+

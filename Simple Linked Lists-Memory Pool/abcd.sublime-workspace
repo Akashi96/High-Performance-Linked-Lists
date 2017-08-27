@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n    \"folders\":\n    [\n        {\n            \"path\": \"/home/akash/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool\",\n            \"folder_exclude_patterns\": [\"bin\",\"obj\"]\n        },\n        {3\n            \"path\": \"docs\",\n            \"name\": \"Documentation\",\n            \"file_exclude_patterns\": [\"*.css\"]\n        }\n    ],\n    \"settings\":\n    {\n        \"tab_size\": 8\n    },\n    \"build_systems\":\n    [\n        {\n            \"name\": \"linked_list.h\",\n            \"name\": \"linked_lists.cpp\",\n            \"name\": \"main.cpp\",\n            \"cmd\": [\"ls\"]\n        }\n    ]\n}",
+			"file": "abcd.sublime-project",
+			"file_size": 581,
+			"file_write_time": 131179315663263181,
+			"settings":
+			{
+				"buffer_size": 582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "High_Performance_Linked_Lists.cbp",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/akash/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool/untitled.sublime-project",
+		"/home/akash/.config/sublime-text-3/Packages/User/start_prog.sublime-snippet",
+		"/home/akash/.config/sublime-text-3/Packages/User/untitled",
+		"/home/akash/Desktop/prog/linked_list.h",
+		"/home/akash/Desktop/prog/linked_lists.cpp",
+		"/home/akash/Desktop/prog/main.cpp",
+		"/home/akash/Desktop/Ubuntu_Utility.txt",
+		"/home/akash/.config/sublime-text-3/Packages/User/c++11.sublime-build",
+		"/home/akash/Desktop/a.cpp",
+		"/home/akash/.config/sublime-text-3/Packages/Sublime Input/SublimeInput.sublime-settings",
+		"/home/akash/Desktop/untitled.cpp",
+		"/home/akash/Desktop/1.cpp",
+		"/home/akash/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool/main.cpp",
+		"/home/akash/Desktop/pro/asqws/linked_lists.cpp",
+		"/home/akash/Desktop/pro/asqws/linked_list.h",
+		"/home/akash/Desktop/pro/asqws/main.cpp",
+		"/home/akash/Desktop/pro/main.cpp",
+		"/home/akash/Desktop/pro/linked_lists.cpp",
+		"/home/akash/Desktop/pro/linked_list.h",
+		"/home/akash/Desktop/Untitled Folder/linked_list.h",
+		"/home/akash/Desktop/Untitled Folder/linked_lists.cpp",
+		"/home/akash/Desktop/Untitled Folder/main.cpp",
+		"/home/akash/Desktop/High Performance Linked Lists/Simple Linked Lists-Memory Pool/linked_lists.cpp",
+		"/home/akash/Desktop/High Performance Linked Lists/Simple Linked Lists-Memory Pool/main.cpp",
+		"/home/akash/Desktop/High Performance Linked Lists/Simple Linked Lists-Memory Pool/linked_list.h",
+		"/home/akash/Desktop/Project/untitled.h",
+		"/home/akash/Desktop/Project/other.cpp",
+		"/home/akash/Desktop/Project/main.cpp",
+		"/media/akash/Windows/Users/Akash Agarwal/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool/linked_list.h",
+		"/media/akash/Windows/Users/Akash Agarwal/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool/linked_lists.cpp",
+		"/media/akash/Windows/Users/Akash Agarwal/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool/main.cpp",
+		"/home/akash/Desktop/untitled1.cpp",
+		"/home/akash/.config/sublime-text-3/Packages/User/cpp.sublime-build",
+		"/media/akash/Windows/Users/Akash Agarwal/Desktop/High_Performance_Linked_Lists/Simple Linked Lists-Memory Pool/High_Performance_Linked_Lists.cbp",
+		"/media/akash/Windows/Users/Akash Agarwal/Documents/c++ files/Matrix_Multiplication.cpp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "abcd.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "High_Performance_Linked_Lists.cbp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++11.sublime-build",
+	"project": "abcd.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/untitled.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
