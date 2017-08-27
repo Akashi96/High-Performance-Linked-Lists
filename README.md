@@ -8,6 +8,8 @@ The above procedure definitely makes the program faster and more efficient.
 # The Repository consists of 2 directories:
 # 1) Simple Linked Lists: 
     The implementation of the concept on the normal C++ Linked Lists Data Structure.
-    ![Screenshot](https://github.com/Akashi96/High-Performance-Linked-Lists/tree/master/Simple%20Linked%20Lists-Memory%20Pool/Screenshot.png)
+   ![screenshot](https://user-images.githubusercontent.com/29279664/29753565-9ff99926-8b91-11e7-92c0-37482355a7f5.png)
+    
 # 2) Stratified Linked Lists: 
     The implementation of the concept on a modified and more advanced model of the Linked Lists Data Structure.  
+   ![stratified linked lists](https://user-images.githubusercontent.com/29279664/29753603-5a72a4e6-8b92-11e7-9cbf-9d7d24706c45.png)
